@@ -1,0 +1,35 @@
+Project 1 : Mad libs Python Project 
+
+https://colab.research.google.com/drive/1XqLLWL3LdlVEk6KaC_J-yjg0V_qkZawK?usp=sharing
+
+Project = 2 : Guess the Number Game Python Project (computer)
+
+https://colab.research.google.com/drive/1QR29ZdqHZjDwSb7-cBYdHejbz-g_FH-z?usp=sharing
+
+Project = 3 : Guess the Number Game Python Project (user)
+
+https://colab.research.google.com/drive/1U9-4h_jP5yvDVCcucKJyYAikVIjHguuI?usp=sharing
+
+Project = 4 : Project 4: Rock, paper, scissors Python Project
+
+https://colab.research.google.com/drive/1_roU5dAZEM-ssulGiofAPEpDHnBmol4g?usp=sharing
+
+Project = 5: Hangman Python Project
+
+https://colab.research.google.com/drive/1cZkUhwToGZVLShDuR8yFhKOFl9ZGhXFB?usp=sharing
+
+Project 6: Countdown Timer Python Project
+
+https://colab.research.google.com/drive/1HRnva7LRvTb8oC96QkvkWNiUMcxKimqF?usp=sharing
+
+Project 7: Password Generator Python Project
+
+https://colab.research.google.com/drive/1bptqHP_VbKFwAVHxqqBw3BeA_oyvld1G?usp=sharing
+
+Project 8: Create a Python Streamlit BMI Calculator Web App in Just 6 Minutes
+
+https://colab.research.google.com/drive/1koqCzXw3T_2rCYi1oWuXbdYYeEU03dK-?usp=sharing
+
+Project 9: Build a Python Website in 15 Minutes With Streamlit
+
+https://colab.research.google.com/drive/1ZiI2RDEyC9ovvbmr_PcybX8NOaG1a3gQ?usp=sharing
